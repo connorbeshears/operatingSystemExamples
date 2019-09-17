@@ -20,7 +20,7 @@ int main(){
 
     //make an array pointer
     double * arr = (double *)(&desk);
-    printf("Length of table: %f\n", arr[0]);
+    printf("Length of table: %f\n", arr[1]);
 
     struct foo bar;
 
